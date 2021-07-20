@@ -26,6 +26,8 @@ html {
 .container {
   padding-left: 2rem;
   padding-right: 2rem;
+  max-width: 980px;
+  margin: 0 auto;
 }
 
 .section {

@@ -183,12 +183,11 @@ footer {
 
 .social {
   display: flex;
+  width: fit-content;
   gap: 1rem;
   align-items: center;
   padding-top: 3rem;
   padding-bottom: 3rem;
-  padding-left: 2rem;
-  padding-right: 2rem;
 }
 
 .social a {
