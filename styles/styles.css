@@ -141,6 +141,10 @@ footer {
   gap: 1.06rem;
 }
 
+.novidades div .title {
+  margin-bottom: 1rem;
+}
+
 .novidades input {
   border-radius: 5px;
   max-width: 400px;
@@ -183,6 +187,8 @@ footer {
   align-items: center;
   padding-top: 3rem;
   padding-bottom: 3rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
 }
 
 .social a {
